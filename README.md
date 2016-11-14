@@ -265,13 +265,6 @@ end
 ```
 NameError: wrong constant name
     Favicon.icoController
-      .../gems/rulers-0.0.3/lib/rulers/routing.rb:9:in
-    `const_get'
-      .../gems/rulers-0.0.3/lib/rulers/routing.rb:9:in
-    `get_controller_and_action'
-      .../gems/rulers-0.0.3/lib/rulers.rb:7:in `call'
-      .../gems/rack-1.4.1/lib/rack/lint.rb:48:in
-    `_call'
       (...more lines...)
 
 ```

@@ -500,7 +500,7 @@ end
 
 
 参考书籍[rebuilding rails](http://rebuilding-rails.com/) 
-这份文档算半翻译的一份文档
+这份文档是一份笔记。请尊重原著版权
 
 
 
